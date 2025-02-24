@@ -70,4 +70,4 @@ function playRound(humanChoice, computerchoice) {
   } else if(computerScore === 5){
     result.textContent = "Computer wins!";
   }
-}
+} 
